@@ -7,5 +7,32 @@ h1{
 }
 
 header{
-font-weight : 500;
+
+background-color: blanchedalmond;
+}
+
+header p{
+    font-weight : 500;
+color: black;
+
+}
+
+main{
+    background-color: grey;
+}
+
+footer{
+    background-color: brown;
+}
+
+p{
+   color:whitesmoke
+}
+
+ul{
+    color: maroon;
+}
+
+ol{
+    color: aquamarine;
 }
