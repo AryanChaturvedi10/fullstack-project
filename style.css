@@ -2,3 +2,10 @@ body {
 background-color: powderblue;
 }
 
+h1{
+    font-size:  45px;
+}
+
+header{
+font-weight : 500;
+}
